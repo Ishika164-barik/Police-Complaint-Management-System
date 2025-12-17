@@ -3,6 +3,8 @@
 A simple and effective console-based Police Complaint Management System built using Core Java and MySQL (JDBC).
 This project allows any citizen to register a complaint, and the police/admin can view all complaints stored in the database.
 
+---
+
 # Project Overview
 
 The Police Complaint Management System is designed for beginners to understand how Java connects with a MySQL database using JDBC.
@@ -16,7 +18,9 @@ CRUD operations
 
 Clean project structure
 
-This project is easy to understand, beginner-friendly, and perfect for college submission 🎓
+This project is easy to understand, beginner-friendly, and perfect for college submission 
+
+---
 
 # Features
 
@@ -26,6 +30,8 @@ This project is easy to understand, beginner-friendly, and perfect for college s
 ✔ Data stored securely in MySQL
 ✔ Simple console interface
 
+---
+
 # Technologies Used
 Technology	Purpose
  Java (Core Java)	Backend logic
@@ -34,15 +40,4 @@ Technology	Purpose
  IntelliJ IDEA	Java IDE
  GitHub	Version control
 
- # Project Structure
- Police-Complaint-Management-System
 
-├── Main.java
-
-├── Complaint.java
-
-├── ComplaintManager.java
-
-├── DatabaseConnection.javal
-
-└── database.sql
