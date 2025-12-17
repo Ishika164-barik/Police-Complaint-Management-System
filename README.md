@@ -36,8 +36,6 @@ Technology	Purpose
 
  # Project Structure
  Police-Complaint-Management-System
- 
-│
 
 ├── Main.java
 
@@ -45,12 +43,6 @@ Technology	Purpose
 
 ├── ComplaintManager.java
 
-├── DatabaseConnection.java
+├── DatabaseConnection.javal
 
-│
-
-├── database.sql
-
-├── README.md
-
-└── .gitignore
+└── database.sql
