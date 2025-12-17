@@ -36,6 +36,7 @@ Technology	Purpose
 
  # Project Structure
  Police-Complaint-Management-System
+ 
 │
 ├── Main.java
 
