@@ -4,7 +4,7 @@ import java.sql.DriverManager;
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/police_complaint_db";
     private static final String USER = "root";
-    private static final String PASSWORD = "password"; // change if needed
+    private static final String PASSWORD = "pass-word"; // change if needed
 
     public static Connection getConnection() throws Exception {
         Class.forName("com.mysql.cj.jdbc.Driver");
