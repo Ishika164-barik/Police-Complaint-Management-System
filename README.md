@@ -38,10 +38,16 @@ Technology	Purpose
  Police-Complaint-Management-System
 │
 ├── Main.java
+
 ├── Complaint.java
+
 ├── ComplaintManager.java
+
 ├── DatabaseConnection.java
+
 │
 ├── database.sql
+
 ├── README.md
+
 └── .gitignore
