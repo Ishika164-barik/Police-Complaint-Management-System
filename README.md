@@ -25,9 +25,13 @@ This project is easy to understand, beginner-friendly, and perfect for college s
 # Features
 
 ✔ Register a new complaint
+
 ✔ View all complaints
+
 ✔ Delete a complaint by ID
+
 ✔ Data stored securely in MySQL
+
 ✔ Simple console interface
 
 ---
